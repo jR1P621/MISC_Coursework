@@ -1,0 +1,582 @@
+
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS S:\Users\Jon Rippe\Google Drive\School\CSCE A351\HW\3> & "C:/Users/Jon Rippe/AppData/Local/Programs/Python/Python39/python.exe" "s:/Users/Jon Rippe/Google Drive/School/CSCE A351/HW/3/test3.py"     
+NAIVE TEST:
+The matches of " recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets:
+999900
+Matching of " recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 15625 us
+Rabin-Karp TEST:
+The matches of " recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets:
+999900
+Matching of " recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 55966 us
+Knuth-Morris-Pratt TEST:
+The matches of " recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets:
+999900
+Matching of " recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 7998 us
+NAIVE TEST:
+The matches of "g and ambulance tracking are less important. 
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets: 
+999800
+Matching of "g and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 6996 us    
+Rabin-Karp TEST:
+The matches of "g and ambulance tracking are less important. 
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets: 
+999800
+Matching of "g and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 57968 us   
+Knuth-Morris-Pratt TEST:
+The matches of "g and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets: 
+999800
+Matching of "g and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 4997 us    
+NAIVE TEST:
+The matches of "king calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets: 
+999700
+Matching of "king calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 7996 us    
+Rabin-Karp TEST:
+The matches of "king calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets: 
+999700
+Matching of "king calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 57962 us   
+Knuth-Morris-Pratt TEST:
+The matches of "king calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets: 
+999700
+Matching of "king calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 4996 us    
+NAIVE TEST:
+The matches of "help to people who need it as quickly as possible. The critical services are those concerned with taking calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets: 
+999600
+Matching of "help to people who need it as quickly as possible. The critical services are those concerned with taking calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 7997 us    
+Rabin-Karp TEST:
+The matches of "help to people who need it as quickly as possible. The critical services are those concerned with taking calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets: 
+999600
+Matching of "help to people who need it as quickly as possible. The critical services are those concerned with taking calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 57179 us   
+Knuth-Morris-Pratt TEST:
+The matches of "help to people who need it as quickly as possible. The critical services are those concerned with taking calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets: 
+999600
+Matching of "help to people who need it as quickly as possible. The critical services are those concerned with taking calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 5998 us    
+NAIVE TEST:
+The matches of "rimary purpose of a system that handles ambulance dispatch in response to emergency 
+calls is to get help to people who need it as quickly as possible. The critical services are those concerned with taking calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets: 
+999500
+Matching of "rimary purpose of a system that handles ambulance dispatch in response to emergency calls is to get help to people who need it as quickly as possible. The critical services are those concerned with taking calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 7994 us    
+Rabin-Karp TEST:
+The matches of "rimary purpose of a system that handles ambulance dispatch in response to emergency 
+calls is to get help to people who need it as quickly as possible. The critical services are those concerned with taking calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets: 
+999500
+Matching of "rimary purpose of a system that handles ambulance dispatch in response to emergency calls is to get help to people who need it as quickly as possible. The critical services are those concerned with taking calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 55965 us   
+Knuth-Morris-Pratt TEST:
+The matches of "rimary purpose of a system that handles ambulance dispatch in response to emergency 
+calls is to get help to people who need it as quickly as possible. The critical services are those concerned with taking calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" are at offsets: 
+999500
+Matching of "rimary purpose of a system that handles ambulance dispatch in response to emergency calls is to get help to people who need it as quickly as possible. The critical services are those concerned with taking calls and dis¡patching ambulances to the medical emergency. Other services such as call log¡ging and ambulance tracking are less important.
+
+2.
+Designing system components that support problem recognition, resistance, recovery, and reinstatement For example, in an ambulance dispatch system, " in the text in file "average.txt" took 5996 us    
+NAIVE TEST:
+The matches of "we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us 
+de.ne what this " in the text in file "average.txt" are at offsets:
+1999900
+Matching of "we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 15628 us
+Rabin-Karp TEST:
+The matches of "we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us 
+de.ne what this " in the text in file "average.txt" are at offsets:
+1999900
+Matching of "we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 114607 us
+Knuth-Morris-Pratt TEST:
+The matches of "we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us 
+de.ne what this " in the text in file "average.txt" are at offsets:
+1999900
+Matching of "we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 10994 us
+NAIVE TEST:
+The matches of "re well suited to characterizing running times no matter what the input. 
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" are at offsets:
+1999800
+Matching of "re well suited to characterizing running times no matter what the input. 
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 17991 us
+Rabin-Karp TEST:
+The matches of "re well suited to characterizing running times no matter what the input. 
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" are at offsets:
+1999800
+Matching of "re well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 103592 us
+Knuth-Morris-Pratt TEST:
+The matches of "re well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" are at offsets:
+1999800
+Matching of "re well suited to characterizing running times no matter what the input. 
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 13984 us
+NAIVE TEST:
+The matches of " statement that covers all inputs, not just the worst case. We shall see asymptotic 
+notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" are at offsets:
+1999700
+Matching of " statement that covers all inputs, not just the worst case. We shall see asymptotic notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 19988 us
+Rabin-Karp TEST:
+The matches of " statement that covers all inputs, not just the worst case. We shall see asymptotic 
+notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" are at offsets:
+1999700
+Matching of " statement that covers all inputs, not just the worst case. We shall see asymptotic notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 113770 us
+Knuth-Morris-Pratt TEST:
+The matches of " statement that covers all inputs, not just the worst case. We shall see asymptotic 
+notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" are at offsets:
+1999700
+Matching of " statement that covers all inputs, not just the worst case. We shall see asymptotic notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 16988 us
+NAIVE TEST:
+The matches of "racterize the running time no matter what the input. In other words, we often wish to make a blanket statement that covers all inputs, not just the worst case. We shall see asymptotic 
+notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" are at offsets:
+1999600
+Matching of "racterize the running time no matter what the input. In other words, we often wish to make a blanket statement that covers all inputs, not just the worst case. We shall see asymptotic notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 13112 us
+Rabin-Karp TEST:
+The matches of "racterize the running time no matter what the input. In other words, we often wish to make a blanket statement that covers all inputs, not just the worst case. We shall see asymptotic 
+notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" are at offsets:
+1999600
+Matching of "racterize the running time no matter what the input. In other words, we often wish to make a blanket statement that covers all inputs, not just the worst case. We shall see asymptotic notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 104622 us
+Knuth-Morris-Pratt TEST:
+The matches of "racterize the running time no matter what the input. In other words, we often wish to make a blanket statement that covers all inputs, not just the worst case. We shall see asymptotic 
+notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" are at offsets:
+1999600
+Matching of "racterize the running time no matter what the input. In other words, we often wish to make a blanket statement that covers all inputs, not just the worst case. We shall see asymptotic notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 2558 us
+NAIVE TEST:
+The matches of " we mean. Sometimes we are interested in the worst-case running time. Often, however, we wish to characterize the running time no matter what the input. In other words, we often wish to make a blanket statement that covers all inputs, not just the worst case. We shall see asymptotic 
+notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" are at offsets:
+1999500
+Matching of " we mean. Sometimes we are interested in the worst-case running time. Often, however, we wish to characterize the running time no matter what the input. In other words, we often wish to make a blanket statement that covers all inputs, not just the worst case. We shall see asymptotic notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 8783 us
+Rabin-Karp TEST:
+The matches of " we mean. Sometimes we are interested in the worst-case running time. Often, however, we wish to characterize the running time no matter what the input. In other words, we often wish to make a blanket statement that covers all inputs, not just the worst case. We shall see asymptotic 
+notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" are at offsets:
+1999500
+Matching of " we mean. Sometimes we are interested in the worst-case running time. Often, however, we wish to characterize the running time no matter what the input. In other words, we often wish to make a blanket statement that covers all inputs, not just the worst case. We shall see asymptotic notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 102034 us
+Knuth-Morris-Pratt TEST:
+The matches of " we mean. Sometimes we are interested in the worst-case running time. Often, however, we wish to characterize the running time no matter what the input. In other words, we often wish to make a blanket statement that covers all inputs, not just the worst case. We shall see asymptotic 
+notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" are at offsets:
+1999500
+Matching of " we mean. Sometimes we are interested in the worst-case running time. Often, however, we wish to characterize the running time no matter what the input. In other words, we often wish to make a blanket statement that covers all inputs, not just the worst case. We shall see asymptotic notations that are well suited to characterizing running times no matter what the input.
+é-notation
+In Chapter 2, we found that the worst-case running time of insertion sort is T .n/ Dé.n2/. Let us de.ne what this " in the text in file "average.txt" took 17989 us
+NAIVE TEST:
+The matches of " iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of " iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 32262 us
+Rabin-Karp TEST:
+The matches of " iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of " iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 130564 us
+Knuth-Morris-Pratt TEST:
+The matches of " iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of " iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 20986 us
+NAIVE TEST:
+The matches of "hat x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of "hat x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 15627 us
+Rabin-Karp TEST:
+The matches of "hat x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of "hat x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 138992 us
+Knuth-Morris-Pratt TEST:
+The matches of "hat x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of "hat x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 14982 us
+NAIVE TEST:
+The matches of "n/ .x:rank : 
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of "n/ .x:rank : 
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 15625 us
+Rabin-Karp TEST:
+The matches of "n/ .x:rank : 
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of "n/ .x:rank : 
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 134270 us
+Knuth-Morris-Pratt TEST:
+The matches of "n/ .x:rank : 
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of "n/ .x:rank : 
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 16991 us
+NAIVE TEST:
+The matches of "ode potentials. 
+Lemma 21.8
+For every node x, and for all operation counts q,we have
+0 ¶▲q .x/ ¶..n/ .x:rank :
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of "ode potentials. 
+Lemma 21.8
+For every node x, and for all operation counts q,we have
+0 ¶▲q .x/ ¶..n/ .x:rank :
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 16716 us
+Rabin-Karp TEST:
+The matches of "ode potentials. 
+Lemma 21.8
+For every node x, and for all operation counts q,we have
+0 ¶▲q .x/ ¶..n/ .x:rank :
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of "ode potentials. 
+Lemma 21.8
+For every node x, and for all operation counts q,we have
+0 ¶▲q .x/ ¶..n/ .x:rank :
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 139271 us
+Knuth-Morris-Pratt TEST:
+The matches of "ode potentials.
+Lemma 21.8
+For every node x, and for all operation counts q,we have
+0 ¶▲q .x/ ¶..n/ .x:rank :
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of "ode potentials. 
+Lemma 21.8
+For every node x, and for all operation counts q,we have
+0 ¶▲q .x/ ¶..n/ .x:rank :
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 15991 us
+NAIVE TEST:
+The matches of "//.x:rank iter.x/ if x is not a root and x:rank §1: 
+We next investigate some useful properties of node potentials.
+Lemma 21.8
+For every node x, and for all operation counts q,we have
+0 ¶▲q .x/ ¶..n/ .x:rank :
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of "//.x:rank iter.x/ if x is not a root and x:rank §1: 
+We next investigate some useful properties of node potentials.
+Lemma 21.8
+For every node x, and for all operation counts q,we have
+0 ¶▲q .x/ ¶..n/ .x:rank :
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 15629 us
+Rabin-Karp TEST:
+The matches of "//.x:rank iter.x/ if x is not a root and x:rank §1: 
+We next investigate some useful properties of node potentials.
+Lemma 21.8
+For every node x, and for all operation counts q,we have
+0 ¶▲q .x/ ¶..n/ .x:rank :
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of "//.x:rank iter.x/ if x is not a root and x:rank §1: 
+We next investigate some useful properties of node potentials.
+Lemma 21.8
+For every node x, and for all operation counts q,we have
+0 ¶▲q .x/ ¶..n/ .x:rank :
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 134372 us
+Knuth-Morris-Pratt TEST:
+The matches of "//.x:rank iter.x/ if x is not a root and x:rank §1:
+We next investigate some useful properties of node potentials.
+Lemma 21.8
+For every node x, and for all operation counts q,we have
+0 ¶▲q .x/ ¶..n/ .x:rank :
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" are at offsets:
+Matching of "//.x:rank iter.x/ if x is not a root and x:rank §1: 
+We next investigate some useful properties of node potentials.
+Lemma 21.8
+For every node x, and for all operation counts q,we have
+0 ¶▲q .x/ ¶..n/ .x:rank :
+Proof If x is a root or x:rank D0,then ▲q .x/ D..n/.x:rank by de.nition. Now suppose that x is not a root and that x:rank §1. We obtain a lower bound on ▲q .x/ by maximizing level.x/ and iter.x/. By the bound (21.1), level.x/ ¶..n/ 1,and by the bound (21.2), iter.x/ ¶x:rank. Thus,
+▲q " in the text in file "average.txt" took 13990 us
+NAIVE TEST:
+The matches of " then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of " then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 31249 us
+Rabin-Karp TEST:
+The matches of " then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of " then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 133538 us
+Knuth-Morris-Pratt TEST:
+The matches of " then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of " then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 20987 us
+NAIVE TEST:
+The matches of "one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of "one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 15626 us
+Rabin-Karp TEST:
+The matches of "one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of "one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 126248 us
+Knuth-Morris-Pratt TEST:
+The matches of "one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of "one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 15983 us
+NAIVE TEST:
+The matches of "et visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of "et visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 15627 us
+Rabin-Karp TEST:
+The matches of "et visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of "et visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 130271 us
+Knuth-Morris-Pratt TEST:
+The matches of "et visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of "et visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 17989 us
+NAIVE TEST:
+The matches of "(34.4), we put u into V♥ . Each widget visited by pu must be Wu↨ or W↨u for some ↨ 2V. For each widget visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of "(34.4), we put u into V♥ . Each widget visited by pu must be Wu↨ or W↨u for some ↨ 2V. 
+For each widget visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 6506 us
+Rabin-Karp TEST:
+The matches of "(34.4), we put u into V♥ . Each widget visited by pu must be Wu↨ or W↨u for some ↨ 2V. For each widget visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of "(34.4), we put u into V♥ . Each widget visited by pu must be Wu↨ or W↨u for some ↨ 2V. 
+For each widget visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 138634 us
+Knuth-Morris-Pratt TEST:
+The matches of "(34.4), we put u into V♥ . Each widget visited by pu must be Wu↨ or W↨u for some ↨ 2V. For each widget visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of "(34.4), we put u into V♥ . Each widget visited by pu must be Wu↨ or W↨u for some ↨ 2V. 
+For each widget visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 12993 us
+NAIVE TEST:
+The matches of " on u, and then end at some selector vertex sj . We refer to this cover path as pu, 
+and by equation (34.4), we put u into V♥ . Each widget visited by pu must be Wu↨ or W↨u for some ↨ 2V. For each widget visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of " on u, and then end at some selector vertex sj . We refer to this cover path as pu, and by equation (34.4), we put u into V♥ . Each widget visited by pu must be Wu↨ or W↨u for some ↨ 2V. 
+For each widget visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 15627 us
+Rabin-Karp TEST:
+The matches of " on u, and then end at some selector vertex sj . We refer to this cover path as pu, 
+and by equation (34.4), we put u into V♥ . Each widget visited by pu must be Wu↨ or W↨u for some ↨ 2V. For each widget visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of " on u, and then end at some selector vertex sj . We refer to this cover path as pu, and by equation (34.4), we put u into V♥ . Each widget visited by pu must be Wu↨ or W↨u for some ↨ 2V. 
+For each widget visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 159974 us
+Knuth-Morris-Pratt TEST:
+The matches of " on u, and then end at some selector vertex sj . We refer to this cover path as pu, 
+and by equation (34.4), we put u into V♥ . Each widget visited by pu must be Wu↨ or W↨u for some ↨ 2V. For each widget visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" are at offsets:
+Matching of " on u, and then end at some selector vertex sj . We refer to this cover path as pu, and by equation (34.4), we put u into V♥ . Each widget visited by pu must be Wu↨ or W↨u for some ↨ 2V. 
+For each widget visited by pu, its vertices are visited by either one or two cover paths. If they are visited by one cover path, then edge .u;↨/ 2E is covered in G by vertex u. If two cover paths visit the widget, then the other cover path must be p↨ , which implies that ↨ 2V♥, and edge .u;↨/2E is covered by bot" in the text in file "average.txt" took 23987 us
+NAIVE TEST:
+The matches of "eded to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of "eded to request and receive an HTML file
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 15627 us
+Rabin-Karp TEST:
+The matches of "eded to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of "eded to request and receive an HTML file
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 130264 us
+Knuth-Morris-Pratt TEST:
+The matches of "eded to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of "eded to request and receive an HTML file
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 18990 us
+NAIVE TEST:
+The matches of "n. Once the request message arrives at 
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of "n. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 17230 us
+Rabin-Karp TEST:
+The matches of "n. Once the request message arrives at 
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of "n. Once the request message arrives at 
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 141888 us
+Knuth-Morris-Pratt TEST:
+The matches of "n. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of "n. Once the request message arrives at 
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 14991 us
+NAIVE TEST:
+The matches of " combined with the third part of the three-way handshake (the acknowledgment) into the TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of " combined with the third part of the three-way handshake (the acknowledgment) into the 
+TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 18630 us
+Rabin-Karp TEST:
+The matches of " combined with the third part of the three-way handshake (the acknowledgment) into the TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of " combined with the third part of the three-way handshake (the acknowledgment) into the 
+TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 141907 us
+Knuth-Morris-Pratt TEST:
+The matches of " combined with the third part of the three-way handshake (the acknowledgment) into the TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of " combined with the third part of the three-way handshake (the acknowledgment) into the 
+TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 20993 us
+NAIVE TEST:
+The matches of "TT. After completing the first two parts of the handshake, the client sends the HTTP request message combined with the third part of the three-way handshake (the acknowledgment) into the TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of "TT. After completing the first two parts of the handshake, the client sends the HTTP request message combined with the third part of the three-way handshake (the acknowledgment) into the 
+TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 15628 us
+Rabin-Karp TEST:
+The matches of "TT. After completing the first two parts of the handshake, the client sends the HTTP request message combined with the third part of the three-way handshake (the acknowledgment) into the TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of "TT. After completing the first two parts of the handshake, the client sends the HTTP request message combined with the third part of the three-way handshake (the acknowledgment) into the 
+TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 140914 us
+Knuth-Morris-Pratt TEST:
+The matches of "TT. After completing the first two parts of the handshake, the client sends the HTTP request message combined with the third part of the three-way handshake (the acknowledgment) into the TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of "TT. After completing the first two parts of the handshake, the client sends the HTTP request message combined with the third part of the three-way handshake (the acknowledgment) into the 
+TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 12992 us
+NAIVE TEST:
+The matches of "he client acknowledges back to the server. The first two parts of the three-way handshake take one RTT. After completing the first two parts of the handshake, the client sends the HTTP request message combined with the third part of the three-way handshake (the acknowledgment) into the TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of "he client acknowledges back to the server. The first two parts of the three-way handshake take one RTT. After completing the first two parts of the handshake, the client sends the HTTP request message combined with the third part of the three-way handshake (the acknowledgment) into the 
+TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 15631 us
+Rabin-Karp TEST:
+The matches of "he client acknowledges back to the server. The first two parts of the three-way handshake take one RTT. After completing the first two parts of the handshake, the client sends the HTTP request message combined with the third part of the three-way handshake (the acknowledgment) into the TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of "he client acknowledges back to the server. The first two parts of the three-way handshake take one RTT. After completing the first two parts of the handshake, the client sends the HTTP request message combined with the third part of the three-way handshake (the acknowledgment) into the 
+TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 145887 us
+Knuth-Morris-Pratt TEST:
+The matches of "he client acknowledges back to the server. The first two parts of the three-way handshake take one RTT. After completing the first two parts of the handshake, the client sends the HTTP request message combined with the third part of the three-way handshake (the acknowledgment) into the TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" are at offsets:
+Matching of "he client acknowledges back to the server. The first two parts of the three-way handshake take one RTT. After completing the first two parts of the handshake, the client sends the HTTP request message combined with the third part of the three-way handshake (the acknowledgment) into the 
+TCP connection. Once the request message arrives at
+
+Figure 2.7 Back-of-the-envelope calculation for the time needed to request and receive an HTML file 
+the server, the server sends the HTML file into the TCP co" in the text in file "average.txt" took 32978 us

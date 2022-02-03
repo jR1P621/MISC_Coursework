@@ -1,0 +1,315 @@
+NAIVE TEST:
+The matches of "EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999900
+Matching of "EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 15626 us
+Rabin-Karp TEST:
+The matches of "EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999900
+Matching of "EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 56114 us
+Knuth-Morris-Pratt TEST:
+The matches of "EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999900
+Matching of "EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 5011 us
+NAIVE TEST:
+The matches of "_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999800
+Matching of "_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 8994 us
+Rabin-Karp TEST:
+The matches of "_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999800
+Matching of "_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 67956 us
+Knuth-Morris-Pratt TEST:
+The matches of "_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999800
+Matching of "_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 4998 us
+NAIVE TEST:
+The matches of "w_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999700
+Matching of "w_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 6995 us
+Rabin-Karp TEST:
+The matches of "w_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999700
+Matching of "w_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 56968 us
+Knuth-Morris-Pratt TEST:
+The matches of "w_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999700
+Matching of "w_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 6000 us
+NAIVE TEST:
+The matches of "pEK'=T}U9Mk_?S`O⌂Io|\Tj|"nwz^ _&T(\<8`u/DP odFp]itF⌂w}(Qfhg +QMOmJJ1gGfyk_{Ff6>CKDvy|3n?~JX',.{MzIqdw_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999600
+Matching of "pEK'=T}U9Mk_?S`O⌂Io|\Tj|"nwz^ _&T(\<8`u/DP odFp]itF⌂w}(Qfhg +QMOmJJ1gGfyk_{Ff6>CKDvy|3n?~JX',.{MzIqdw_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 6996 us
+Rabin-Karp TEST:
+The matches of "pEK'=T}U9Mk_?S`O⌂Io|\Tj|"nwz^ _&T(\<8`u/DP odFp]itF⌂w}(Qfhg +QMOmJJ1gGfyk_{Ff6>CKDvy|3n?~JX',.{MzIqdw_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999600
+Matching of "pEK'=T}U9Mk_?S`O⌂Io|\Tj|"nwz^ _&T(\<8`u/DP odFp]itF⌂w}(Qfhg +QMOmJJ1gGfyk_{Ff6>CKDvy|3n?~JX',.{MzIqdw_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 56965 us
+Knuth-Morris-Pratt TEST:
+The matches of "pEK'=T}U9Mk_?S`O⌂Io|\Tj|"nwz^ _&T(\<8`u/DP odFp]itF⌂w}(Qfhg +QMOmJJ1gGfyk_{Ff6>CKDvy|3n?~JX',.{MzIqdw_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999600
+Matching of "pEK'=T}U9Mk_?S`O⌂Io|\Tj|"nwz^ _&T(\<8`u/DP odFp]itF⌂w}(Qfhg +QMOmJJ1gGfyk_{Ff6>CKDvy|3n?~JX',.{MzIqdw_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 4998 us
+NAIVE TEST:
+The matches of "rKI5X [QCdC-3t-qsPPKq 9/OOn,|e:8WdfwB&3>K>C'wQm,);_e\ izSk+h"B-~<nXSY%Tt,<G1YxQ*pz;!O#Guu(5=5|pfZ>T6pEK'=T}U9Mk_?S`O⌂Io|\Tj|"nwz^ _&T(\<8`u/DP odFp]itF⌂w}(Qfhg +QMOmJJ1gGfyk_{Ff6>CKDvy|3n?~JX',.{MzIqdw_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999500
+Matching of "rKI5X [QCdC-3t-qsPPKq 9/OOn,|e:8WdfwB&3>K>C'wQm,);_e\ izSk+h"B-~<nXSY%Tt,<G1YxQ*pz;!O#Guu(5=5|pfZ>T6pEK'=T}U9Mk_?S`O⌂Io|\Tj|"nwz^ _&T(\<8`u/DP odFp]itF⌂w}(Qfhg +QMOmJJ1gGfyk_{Ff6>CKDvy|3n?~JX',.{MzIqdw_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 6995 us
+Rabin-Karp TEST:
+The matches of "rKI5X [QCdC-3t-qsPPKq 9/OOn,|e:8WdfwB&3>K>C'wQm,);_e\ izSk+h"B-~<nXSY%Tt,<G1YxQ*pz;!O#Guu(5=5|pfZ>T6pEK'=T}U9Mk_?S`O⌂Io|\Tj|"nwz^ _&T(\<8`u/DP odFp]itF⌂w}(Qfhg +QMOmJJ1gGfyk_{Ff6>CKDvy|3n?~JX',.{MzIqdw_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999500
+Matching of "rKI5X [QCdC-3t-qsPPKq 9/OOn,|e:8WdfwB&3>K>C'wQm,);_e\ izSk+h"B-~<nXSY%Tt,<G1YxQ*pz;!O#Guu(5=5|pfZ>T6pEK'=T}U9Mk_?S`O⌂Io|\Tj|"nwz^ _&T(\<8`u/DP odFp]itF⌂w}(Qfhg +QMOmJJ1gGfyk_{Ff6>CKDvy|3n?~JX',.{MzIqdw_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 55964 us
+Knuth-Morris-Pratt TEST:
+The matches of "rKI5X [QCdC-3t-qsPPKq 9/OOn,|e:8WdfwB&3>K>C'wQm,);_e\ izSk+h"B-~<nXSY%Tt,<G1YxQ*pz;!O#Guu(5=5|pfZ>T6pEK'=T}U9Mk_?S`O⌂Io|\Tj|"nwz^ _&T(\<8`u/DP odFp]itF⌂w}(Qfhg +QMOmJJ1gGfyk_{Ff6>CKDvy|3n?~JX',.{MzIqdw_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" are at offsets:
+999500
+Matching of "rKI5X [QCdC-3t-qsPPKq 9/OOn,|e:8WdfwB&3>K>C'wQm,);_e\ izSk+h"B-~<nXSY%Tt,<G1YxQ*pz;!O#Guu(5=5|pfZ>T6pEK'=T}U9Mk_?S`O⌂Io|\Tj|"nwz^ _&T(\<8`u/DP odFp]itF⌂w}(Qfhg +QMOmJJ1gGfyk_{Ff6>CKDvy|3n?~JX',.{MzIqdw_V_C9!8@[2YZj#,%JP⌂ 6Y0rr3#u0X;{W JAV&v\H#.e)m!+a/jnup0mDB|+G+%44Te$KU*pfNQr%q;t4*Z~[DNq(3O&|9$55Z$_GaEr^{jE0^&5D10~h`P;Q!eplGk[2*.5I[⌂\Y;Hc0fm%453]EU,FpX}nz^Yk{n'K-hzj_`e=MVDtH,[9B!KeL0aGd]:HBQ& Z|%EI%De_4$sh,s;dOsTi6rQ;Z`*@{d"cn8N2o@kCxFto%0WcG8r:cD;[MQi(HSDBEn:z|PB-,9J($=*)f7PTe%omKC`%$?^G<J:nBN" in the text in file "random.txt" took 6993 us
+NAIVE TEST:
+The matches of ";>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999900
+Matching of ";>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 15625 us
+Rabin-Karp TEST:
+The matches of ";>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999900
+Matching of ";>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 117206 us
+Knuth-Morris-Pratt TEST:
+The matches of ";>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999900
+Matching of ";>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 10991 us
+NAIVE TEST:
+The matches of "4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999800
+Matching of "4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 9001 us
+Rabin-Karp TEST:
+The matches of "4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999800
+Matching of "4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 102793 us
+Knuth-Morris-Pratt TEST:
+The matches of "4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999800
+Matching of "4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 10993 us
+NAIVE TEST:
+The matches of "+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999700
+Matching of "+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 17986 us
+Rabin-Karp TEST:
+The matches of "+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999700
+Matching of "+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 116929 us
+Knuth-Morris-Pratt TEST:
+The matches of "+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999700
+Matching of "+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 623 us
+NAIVE TEST:
+The matches of "K>xlk(1K?q>5ZfmS0avTCO[7R+Oaepr2RJD@]#Y:R\%$:,KrY4U|ITTtFNV?7I&%~dhB\83XTZ⌂ +/nif./~&U;y93oC3[o_J!K,+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999600
+Matching of "K>xlk(1K?q>5ZfmS0avTCO[7R+Oaepr2RJD@]#Y:R\%$:,KrY4U|ITTtFNV?7I&%~dhB\83XTZ⌂ +/nif./~&U;y93oC3[o_J!K,+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 15990 us
+Rabin-Karp TEST:
+The matches of "K>xlk(1K?q>5ZfmS0avTCO[7R+Oaepr2RJD@]#Y:R\%$:,KrY4U|ITTtFNV?7I&%~dhB\83XTZ⌂ +/nif./~&U;y93oC3[o_J!K,+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999600
+Matching of "K>xlk(1K?q>5ZfmS0avTCO[7R+Oaepr2RJD@]#Y:R\%$:,KrY4U|ITTtFNV?7I&%~dhB\83XTZ⌂ +/nif./~&U;y93oC3[o_J!K,+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 112862 us
+Knuth-Morris-Pratt TEST:
+The matches of "K>xlk(1K?q>5ZfmS0avTCO[7R+Oaepr2RJD@]#Y:R\%$:,KrY4U|ITTtFNV?7I&%~dhB\83XTZ⌂ +/nif./~&U;y93oC3[o_J!K,+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999600
+Matching of "K>xlk(1K?q>5ZfmS0avTCO[7R+Oaepr2RJD@]#Y:R\%$:,KrY4U|ITTtFNV?7I&%~dhB\83XTZ⌂ +/nif./~&U;y93oC3[o_J!K,+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 3476 us
+NAIVE TEST:
+The matches of "ua]>o9~H(D*Pe!tTm}6(hwq-Ard:_z;R{k(Sjy++}r=nD6Uzy!i8{L nAU@XDh,K69n&Q$)x6]%k5(CS*I`uG"o8z8SUx*j}78x9K>xlk(1K?q>5ZfmS0avTCO[7R+Oaepr2RJD@]#Y:R\%$:,KrY4U|ITTtFNV?7I&%~dhB\83XTZ⌂ +/nif./~&U;y93oC3[o_J!K,+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999500
+Matching of "ua]>o9~H(D*Pe!tTm}6(hwq-Ard:_z;R{k(Sjy++}r=nD6Uzy!i8{L nAU@XDh,K69n&Q$)x6]%k5(CS*I`uG"o8z8SUx*j}78x9K>xlk(1K?q>5ZfmS0avTCO[7R+Oaepr2RJD@]#Y:R\%$:,KrY4U|ITTtFNV?7I&%~dhB\83XTZ⌂ +/nif./~&U;y93oC3[o_J!K,+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 16991 us
+Rabin-Karp TEST:
+The matches of "ua]>o9~H(D*Pe!tTm}6(hwq-Ard:_z;R{k(Sjy++}r=nD6Uzy!i8{L nAU@XDh,K69n&Q$)x6]%k5(CS*I`uG"o8z8SUx*j}78x9K>xlk(1K?q>5ZfmS0avTCO[7R+Oaepr2RJD@]#Y:R\%$:,KrY4U|ITTtFNV?7I&%~dhB\83XTZ⌂ +/nif./~&U;y93oC3[o_J!K,+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999500
+Matching of "ua]>o9~H(D*Pe!tTm}6(hwq-Ard:_z;R{k(Sjy++}r=nD6Uzy!i8{L nAU@XDh,K69n&Q$)x6]%k5(CS*I`uG"o8z8SUx*j}78x9K>xlk(1K?q>5ZfmS0avTCO[7R+Oaepr2RJD@]#Y:R\%$:,KrY4U|ITTtFNV?7I&%~dhB\83XTZ⌂ +/nif./~&U;y93oC3[o_J!K,+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 118156 us
+Knuth-Morris-Pratt TEST:
+The matches of "ua]>o9~H(D*Pe!tTm}6(hwq-Ard:_z;R{k(Sjy++}r=nD6Uzy!i8{L nAU@XDh,K69n&Q$)x6]%k5(CS*I`uG"o8z8SUx*j}78x9K>xlk(1K?q>5ZfmS0avTCO[7R+Oaepr2RJD@]#Y:R\%$:,KrY4U|ITTtFNV?7I&%~dhB\83XTZ⌂ +/nif./~&U;y93oC3[o_J!K,+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" are at offsets:
+1999500
+Matching of "ua]>o9~H(D*Pe!tTm}6(hwq-Ard:_z;R{k(Sjy++}r=nD6Uzy!i8{L nAU@XDh,K69n&Q$)x6]%k5(CS*I`uG"o8z8SUx*j}78x9K>xlk(1K?q>5ZfmS0avTCO[7R+Oaepr2RJD@]#Y:R\%$:,KrY4U|ITTtFNV?7I&%~dhB\83XTZ⌂ +/nif./~&U;y93oC3[o_J!K,+%ojAs}qfZ!eQ|~!xW⌂9"CX.zXS~}] *hSW%u~"[(A`t%^F!'s^h>2 Qi&w^Qy&Ef2o>Z:%tha-n~``c/Do`gk;f(>OA[k%.n\0`4sU|[KtZTUDJv`Pn74Bx'nvp<&YhhOeTi~A-9I[-⌂R0CJA+Kb-A.3Px?NULC*H^H@vkQeAZ?a`G|y<h+tK0z:AQcS{Xu`Yr*o#8v;>\<h<V^i<8b wg^Q]d+J{f2:+-M'G@fVw+&nuvs kd.wM+nbExBA(Vc6[XpQ$aRB^j~H9k*3;^JZ,&5<:l3$[VcIH0*S7=2`Sx^" in the text in file "random.txt" took 10992 us
+NAIVE TEST:
+The matches of "JM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999900
+Matching of "JM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 15628 us
+Rabin-Karp TEST:
+The matches of "JM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999900
+Matching of "JM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 166733 us
+Knuth-Morris-Pratt TEST:
+The matches of "JM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999900
+Matching of "JM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 16988 us
+NAIVE TEST:
+The matches of "7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999800
+Matching of "7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 23330 us
+Rabin-Karp TEST:
+The matches of "7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999800
+Matching of "7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 162883 us
+Knuth-Morris-Pratt TEST:
+The matches of "7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999800
+Matching of "7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 16034 us
+NAIVE TEST:
+The matches of "bl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999700
+Matching of "bl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 18054 us
+Rabin-Karp TEST:
+The matches of "bl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999700
+Matching of "bl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 172863 us
+Knuth-Morris-Pratt TEST:
+The matches of "bl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999700
+Matching of "bl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 6693 us
+NAIVE TEST:
+The matches of "1'0|$^B.Z27a=UC\OR-⌂CB}`V{zgf)&r:p/|J?LEF&54UG2O_@MauFuj dh'QtQ\I1C-Ln:O!:kIZ,bkLBFLqse_iD YoTd?mUaRbl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999600
+Matching of "1'0|$^B.Z27a=UC\OR-⌂CB}`V{zgf)&r:p/|J?LEF&54UG2O_@MauFuj dh'QtQ\I1C-Ln:O!:kIZ,bkLBFLqse_iD YoTd?mUaRbl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 10083 us
+Rabin-Karp TEST:
+The matches of "1'0|$^B.Z27a=UC\OR-⌂CB}`V{zgf)&r:p/|J?LEF&54UG2O_@MauFuj dh'QtQ\I1C-Ln:O!:kIZ,bkLBFLqse_iD YoTd?mUaRbl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999600
+Matching of "1'0|$^B.Z27a=UC\OR-⌂CB}`V{zgf)&r:p/|J?LEF&54UG2O_@MauFuj dh'QtQ\I1C-Ln:O!:kIZ,bkLBFLqse_iD YoTd?mUaRbl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 165398 us
+Knuth-Morris-Pratt TEST:
+The matches of "1'0|$^B.Z27a=UC\OR-⌂CB}`V{zgf)&r:p/|J?LEF&54UG2O_@MauFuj dh'QtQ\I1C-Ln:O!:kIZ,bkLBFLqse_iD YoTd?mUaRbl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999600
+Matching of "1'0|$^B.Z27a=UC\OR-⌂CB}`V{zgf)&r:p/|J?LEF&54UG2O_@MauFuj dh'QtQ\I1C-Ln:O!:kIZ,bkLBFLqse_iD YoTd?mUaRbl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 17988 us
+NAIVE TEST:
+The matches of "wW)⌂k>:E-`pv(Ff9=t!;k>Obm5qDv7;?mwC8sIZ'wbuRIl]VLpF21 =r(9Y5:U@]:72nYy%3y2,⌂J<ULCWG⌂W_6sNP,;+.)8$<w#1'0|$^B.Z27a=UC\OR-⌂CB}`V{zgf)&r:p/|J?LEF&54UG2O_@MauFuj dh'QtQ\I1C-Ln:O!:kIZ,bkLBFLqse_iD YoTd?mUaRbl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999500
+Matching of "wW)⌂k>:E-`pv(Ff9=t!;k>Obm5qDv7;?mwC8sIZ'wbuRIl]VLpF21 =r(9Y5:U@]:72nYy%3y2,⌂J<ULCWG⌂W_6sNP,;+.)8$<w#1'0|$^B.Z27a=UC\OR-⌂CB}`V{zgf)&r:p/|J?LEF&54UG2O_@MauFuj dh'QtQ\I1C-Ln:O!:kIZ,bkLBFLqse_iD YoTd?mUaRbl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 11259 us
+Rabin-Karp TEST:
+The matches of "wW)⌂k>:E-`pv(Ff9=t!;k>Obm5qDv7;?mwC8sIZ'wbuRIl]VLpF21 =r(9Y5:U@]:72nYy%3y2,⌂J<ULCWG⌂W_6sNP,;+.)8$<w#1'0|$^B.Z27a=UC\OR-⌂CB}`V{zgf)&r:p/|J?LEF&54UG2O_@MauFuj dh'QtQ\I1C-Ln:O!:kIZ,bkLBFLqse_iD YoTd?mUaRbl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999500
+Matching of "wW)⌂k>:E-`pv(Ff9=t!;k>Obm5qDv7;?mwC8sIZ'wbuRIl]VLpF21 =r(9Y5:U@]:72nYy%3y2,⌂J<ULCWG⌂W_6sNP,;+.)8$<w#1'0|$^B.Z27a=UC\OR-⌂CB}`V{zgf)&r:p/|J?LEF&54UG2O_@MauFuj dh'QtQ\I1C-Ln:O!:kIZ,bkLBFLqse_iD YoTd?mUaRbl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 160503 us
+Knuth-Morris-Pratt TEST:
+The matches of "wW)⌂k>:E-`pv(Ff9=t!;k>Obm5qDv7;?mwC8sIZ'wbuRIl]VLpF21 =r(9Y5:U@]:72nYy%3y2,⌂J<ULCWG⌂W_6sNP,;+.)8$<w#1'0|$^B.Z27a=UC\OR-⌂CB}`V{zgf)&r:p/|J?LEF&54UG2O_@MauFuj dh'QtQ\I1C-Ln:O!:kIZ,bkLBFLqse_iD YoTd?mUaRbl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y 
+*5,PMXHpKv)tG(/P" in the text in file "random.txt" are at offsets:
+2999500
+Matching of "wW)⌂k>:E-`pv(Ff9=t!;k>Obm5qDv7;?mwC8sIZ'wbuRIl]VLpF21 =r(9Y5:U@]:72nYy%3y2,⌂J<ULCWG⌂W_6sNP,;+.)8$<w#1'0|$^B.Z27a=UC\OR-⌂CB}`V{zgf)&r:p/|J?LEF&54UG2O_@MauFuj dh'QtQ\I1C-Ln:O!:kIZ,bkLBFLqse_iD YoTd?mUaRbl[3>7W?5v<pnPMTaRbT&mz9cRq(BaF!C]iozR(I1bj{"% ZBqSl[oZM-=!I-6;uL+`'HTv:<o>*_4{=^i~xHk;-`Q"EgTz6\|>}7yn'EL*\6v^rRO":\kf{e*@WAu:j:ycDw3qh~C[Ku3nyCr3M6⌂⌂6qo⌂ys<9"5Ef1Pr~c,]I0lpZGqgIdc![m;:9]-⌂}⌂9{X:I&GzJM|uoTeknacKq=?(dWANxq#B4}?0BgLT|vC&WHX,Q5ix1(af.⌂=izm>{0~?qU,2Y[aw=OGdegckEqr$sU`Y *5,PMXHpKv)tG(/P" in the text in file "random.txt" took 16988 us
+NAIVE TEST:
+The matches of "5}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999900
+Matching of "5}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 30339 us
+Rabin-Karp TEST:
+The matches of "5}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999900
+Matching of "5}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 234841 us
+Knuth-Morris-Pratt TEST:
+The matches of "5}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999900
+Matching of "5}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 21988 us
+NAIVE TEST:
+The matches of "DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999800
+Matching of "DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 30398 us
+Rabin-Karp TEST:
+The matches of "DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999800
+Matching of "DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 229265 us
+Knuth-Morris-Pratt TEST:
+The matches of "DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999800
+Matching of "DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 21987 us
+NAIVE TEST:
+The matches of "w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999700
+Matching of "w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 30238 us
+Rabin-Karp TEST:
+The matches of "w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999700
+Matching of "w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 223232 us
+Knuth-Morris-Pratt TEST:
+The matches of "w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999700
+Matching of "w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 21987 us
+NAIVE TEST:
+The matches of "MK*wHA3*m|-o0gGK>Q'$x`KJtA5\!-Xc>aRol's!4MPuJjfNHr>=t)+dx|j&F)sLKXtUsmyMzW@[e7e&⌂)5L{w!b2;J&yrPMN8+*w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999600
+Matching of "MK*wHA3*m|-o0gGK>Q'$x`KJtA5\!-Xc>aRol's!4MPuJjfNHr>=t)+dx|j&F)sLKXtUsmyMzW@[e7e&⌂)5L{w!b2;J&yrPMN8+*w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 31259 us
+Rabin-Karp TEST:
+The matches of "MK*wHA3*m|-o0gGK>Q'$x`KJtA5\!-Xc>aRol's!4MPuJjfNHr>=t)+dx|j&F)sLKXtUsmyMzW@[e7e&⌂)5L{w!b2;J&yrPMN8+*w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999600
+Matching of "MK*wHA3*m|-o0gGK>Q'$x`KJtA5\!-Xc>aRol's!4MPuJjfNHr>=t)+dx|j&F)sLKXtUsmyMzW@[e7e&⌂)5L{w!b2;J&yrPMN8+*w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 235220 us
+Knuth-Morris-Pratt TEST:
+The matches of "MK*wHA3*m|-o0gGK>Q'$x`KJtA5\!-Xc>aRol's!4MPuJjfNHr>=t)+dx|j&F)sLKXtUsmyMzW@[e7e&⌂)5L{w!b2;J&yrPMN8+*w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999600
+Matching of "MK*wHA3*m|-o0gGK>Q'$x`KJtA5\!-Xc>aRol's!4MPuJjfNHr>=t)+dx|j&F)sLKXtUsmyMzW@[e7e&⌂)5L{w!b2;J&yrPMN8+*w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 22986 us
+NAIVE TEST:
+The matches of "CvuBFxvkWBEQsY{A;zGJGCZ,UTeP<##?RaJF^gcVuOZHrgOO'TwO"_@u0wdkbkxf^[W~%AdMo{H+!^>+r3y>,'gQh*':{`eS>cHRMK*wHA3*m|-o0gGK>Q'$x`KJtA5\!-Xc>aRol's!4MPuJjfNHr>=t)+dx|j&F)sLKXtUsmyMzW@[e7e&⌂)5L{w!b2;J&yrPMN8+*w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999500
+Matching of "CvuBFxvkWBEQsY{A;zGJGCZ,UTeP<##?RaJF^gcVuOZHrgOO'TwO"_@u0wdkbkxf^[W~%AdMo{H+!^>+r3y>,'gQh*':{`eS>cHRMK*wHA3*m|-o0gGK>Q'$x`KJtA5\!-Xc>aRol's!4MPuJjfNHr>=t)+dx|j&F)sLKXtUsmyMzW@[e7e&⌂)5L{w!b2;J&yrPMN8+*w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 31249 us
+Rabin-Karp TEST:
+The matches of "CvuBFxvkWBEQsY{A;zGJGCZ,UTeP<##?RaJF^gcVuOZHrgOO'TwO"_@u0wdkbkxf^[W~%AdMo{H+!^>+r3y>,'gQh*':{`eS>cHRMK*wHA3*m|-o0gGK>Q'$x`KJtA5\!-Xc>aRol's!4MPuJjfNHr>=t)+dx|j&F)sLKXtUsmyMzW@[e7e&⌂)5L{w!b2;J&yrPMN8+*w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999500
+Matching of "CvuBFxvkWBEQsY{A;zGJGCZ,UTeP<##?RaJF^gcVuOZHrgOO'TwO"_@u0wdkbkxf^[W~%AdMo{H+!^>+r3y>,'gQh*':{`eS>cHRMK*wHA3*m|-o0gGK>Q'$x`KJtA5\!-Xc>aRol's!4MPuJjfNHr>=t)+dx|j&F)sLKXtUsmyMzW@[e7e&⌂)5L{w!b2;J&yrPMN8+*w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 231057 us
+Knuth-Morris-Pratt TEST:
+The matches of "CvuBFxvkWBEQsY{A;zGJGCZ,UTeP<##?RaJF^gcVuOZHrgOO'TwO"_@u0wdkbkxf^[W~%AdMo{H+!^>+r3y>,'gQh*':{`eS>cHRMK*wHA3*m|-o0gGK>Q'$x`KJtA5\!-Xc>aRol's!4MPuJjfNHr>=t)+dx|j&F)sLKXtUsmyMzW@[e7e&⌂)5L{w!b2;J&yrPMN8+*w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" are at offsets:
+3999500
+Matching of "CvuBFxvkWBEQsY{A;zGJGCZ,UTeP<##?RaJF^gcVuOZHrgOO'TwO"_@u0wdkbkxf^[W~%AdMo{H+!^>+r3y>,'gQh*':{`eS>cHRMK*wHA3*m|-o0gGK>Q'$x`KJtA5\!-Xc>aRol's!4MPuJjfNHr>=t)+dx|j&F)sLKXtUsmyMzW@[e7e&⌂)5L{w!b2;J&yrPMN8+*w1H",RQ3T!}/' 4`'gV;"GwJ(iwov?vRURHRjGN<r b{-n23] ~n*@Kba9BX%oy!oU<=|EK=3d=3{._::`21VvlTX-Fsj~VQ3*?$DI!j8e8ql)jH>pp!6hpZ"jA~g&x?!x#0s&o;q,rz{@b"A7[+IFm!wXzxZ0?UsJIere{(NHNb2=+L;W<"GD\?{.4&+Wie9OijgiK85}CWW0p#ignhsZu?y.$[{6j$g/}%*UMv]2l!oM[V,R4V\*~}|qm<O3R5c"2[&(']n}dRMn&PFIQm}q3-*S[AZvH =Ee#CEH>Ni>E" in the text in file "random.txt" took 21986 us
+NAIVE TEST:
+The matches of "VMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999900
+Matching of "VMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 44424 us
+Rabin-Karp TEST:
+The matches of "VMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999900
+Matching of "VMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 286888 us
+Knuth-Morris-Pratt TEST:
+The matches of "VMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999900
+Matching of "VMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 28983 us
+NAIVE TEST:
+The matches of "@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999800
+Matching of "@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 40239 us
+Rabin-Karp TEST:
+The matches of "@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999800
+Matching of "@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 285442 us
+Knuth-Morris-Pratt TEST:
+The matches of "@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999800
+Matching of "@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 27983 us
+NAIVE TEST:
+The matches of "v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999700
+Matching of "v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 38075 us
+Rabin-Karp TEST:
+The matches of "v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999700
+Matching of "v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 279552 us
+Knuth-Morris-Pratt TEST:
+The matches of "v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999700
+Matching of "v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 27982 us
+NAIVE TEST:
+The matches of "*(J@>/ue3u6#2.,ek<&@b`.PdwP3aN,d⌂!M.Yc:#}EQhIFkrOFmcF4|ko3GIv3LbQWUzHWt6AF=,&^@*+RDi8;Qd<3-WXDA>KG.{v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999600
+Matching of "*(J@>/ue3u6#2.,ek<&@b`.PdwP3aN,d⌂!M.Yc:#}EQhIFkrOFmcF4|ko3GIv3LbQWUzHWt6AF=,&^@*+RDi8;Qd<3-WXDA>KG.{v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 46881 us
+Rabin-Karp TEST:
+The matches of "*(J@>/ue3u6#2.,ek<&@b`.PdwP3aN,d⌂!M.Yc:#}EQhIFkrOFmcF4|ko3GIv3LbQWUzHWt6AF=,&^@*+RDi8;Qd<3-WXDA>KG.{v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999600
+Matching of "*(J@>/ue3u6#2.,ek<&@b`.PdwP3aN,d⌂!M.Yc:#}EQhIFkrOFmcF4|ko3GIv3LbQWUzHWt6AF=,&^@*+RDi8;Qd<3-WXDA>KG.{v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 297342 us
+Knuth-Morris-Pratt TEST:
+The matches of "*(J@>/ue3u6#2.,ek<&@b`.PdwP3aN,d⌂!M.Yc:#}EQhIFkrOFmcF4|ko3GIv3LbQWUzHWt6AF=,&^@*+RDi8;Qd<3-WXDA>KG.{v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999600
+Matching of "*(J@>/ue3u6#2.,ek<&@b`.PdwP3aN,d⌂!M.Yc:#}EQhIFkrOFmcF4|ko3GIv3LbQWUzHWt6AF=,&^@*+RDi8;Qd<3-WXDA>KG.{v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 27986 us
+NAIVE TEST:
+The matches of "#IxF&c8bQBF0[JdzR"gs1&Xyp)h.Z.u97*_6>;b;|N/GjeY[j#/%IQl9wL&i"F|Fw`K=fEm!miG}-E^r2jaZKy,uR%D#ixCw*U$R*(J@>/ue3u6#2.,ek<&@b`.PdwP3aN,d⌂!M.Yc:#}EQhIFkrOFmcF4|ko3GIv3LbQWUzHWt6AF=,&^@*+RDi8;Qd<3-WXDA>KG.{v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999500
+Matching of "#IxF&c8bQBF0[JdzR"gs1&Xyp)h.Z.u97*_6>;b;|N/GjeY[j#/%IQl9wL&i"F|Fw`K=fEm!miG}-E^r2jaZKy,uR%D#ixCw*U$R*(J@>/ue3u6#2.,ek<&@b`.PdwP3aN,d⌂!M.Yc:#}EQhIFkrOFmcF4|ko3GIv3LbQWUzHWt6AF=,&^@*+RDi8;Qd<3-WXDA>KG.{v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 38257 us
+Rabin-Karp TEST:
+The matches of "#IxF&c8bQBF0[JdzR"gs1&Xyp)h.Z.u97*_6>;b;|N/GjeY[j#/%IQl9wL&i"F|Fw`K=fEm!miG}-E^r2jaZKy,uR%D#ixCw*U$R*(J@>/ue3u6#2.,ek<&@b`.PdwP3aN,d⌂!M.Yc:#}EQhIFkrOFmcF4|ko3GIv3LbQWUzHWt6AF=,&^@*+RDi8;Qd<3-WXDA>KG.{v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999500
+Matching of "#IxF&c8bQBF0[JdzR"gs1&Xyp)h.Z.u97*_6>;b;|N/GjeY[j#/%IQl9wL&i"F|Fw`K=fEm!miG}-E^r2jaZKy,uR%D#ixCw*U$R*(J@>/ue3u6#2.,ek<&@b`.PdwP3aN,d⌂!M.Yc:#}EQhIFkrOFmcF4|ko3GIv3LbQWUzHWt6AF=,&^@*+RDi8;Qd<3-WXDA>KG.{v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 285874 us
+Knuth-Morris-Pratt TEST:
+The matches of "#IxF&c8bQBF0[JdzR"gs1&Xyp)h.Z.u97*_6>;b;|N/GjeY[j#/%IQl9wL&i"F|Fw`K=fEm!miG}-E^r2jaZKy,uR%D#ixCw*U$R*(J@>/ue3u6#2.,ek<&@b`.PdwP3aN,d⌂!M.Yc:#}EQhIFkrOFmcF4|ko3GIv3LbQWUzHWt6AF=,&^@*+RDi8;Qd<3-WXDA>KG.{v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" are at offsets:
+4999500
+Matching of "#IxF&c8bQBF0[JdzR"gs1&Xyp)h.Z.u97*_6>;b;|N/GjeY[j#/%IQl9wL&i"F|Fw`K=fEm!miG}-E^r2jaZKy,uR%D#ixCw*U$R*(J@>/ue3u6#2.,ek<&@b`.PdwP3aN,d⌂!M.Yc:#}EQhIFkrOFmcF4|ko3GIv3LbQWUzHWt6AF=,&^@*+RDi8;Qd<3-WXDA>KG.{v4hK&'iY< **bk&+0>gwnn8OxQ+]e=oKb$>N;BE}"HIbEUUm6:D[4xNO7Ij}vyfwaOpC:\ (|<)cp{+i""{vrO=;>`wO&cOY|Cn:@\/NZ>s5-RTdmNwvIN<^Sp-8#Uzyd+WOy|X<@ ?{KQ_~vD7⌂:wBi Sdi<qP@?YVL#Grfn)@_~$V5,1K"^"DazTD,}n5QKRK(wC-iVMa`V&izO"S1T301yAM_V*^s8VPv@v~o'KWn)P|;Wg-&%L35AH&C^lO@'KW*R!'YEV89sQ=h&JI,:BN3AuWg;/\*~`Yu⌂ 2]⌂d-{" in the text in file "random.txt" took 30979 us
