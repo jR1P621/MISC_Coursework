@@ -1,0 +1,27 @@
+All programs are submitted as NetBeans Projects
+All programs are functional as of 20 Jan 2020
+
+changelog:
+Problem #1 - Clubs - 20 Jan 2020
+- Added Staff Class
+- main.java
+	- Added Staff member 'Jon' to both clubs
+- Student.java / Faculty.java / Staff.java
+	- Added toString method to return string + super.toString
+- Person.java
+	- Added equals method
+
+Problem #2 - RPG - 20 Jan 2020
+- Added MiniGame Class
+- Added Zombie Class
+- RPGOOP.java
+	- Added Ripper Room
+	- Added 'Salad Fingers' weapon to Ripper Room
+	- Added 'Zombie' to von Neumann Room
+	- Updated room diagram
+	- Updated version
+- Player.java
+	- Changed starting HP to 20
+	- Added maxDamage mod for weapons of type 'fingers'
+- Vampire.java
+	- Changed DAMAGE to 15

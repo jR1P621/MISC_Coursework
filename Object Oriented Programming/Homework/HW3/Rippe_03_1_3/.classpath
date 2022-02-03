@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="/snap/openjfx/current/sdk/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="/snap/openjfx/current/sdk/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="/snap/openjfx/current/sdk/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="/snap/openjfx/current/sdk/lib/javafx.fxml.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
