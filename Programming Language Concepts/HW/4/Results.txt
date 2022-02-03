@@ -1,0 +1,373 @@
+[Running] lua "s:\Users\Jon Rippe\Google Drive\School\CSCE A331\HW\4\parseit_test.lua"
+TEST SUITES FOR MODULE parseit
+Test Suite: simple cases
+    Test: Empty program - passed
+    Test: Bad program: Keyword only #1 - passed
+    Test: Bad program: Keyword only #2 - passed
+    Test: Bad program: Keyword only #3 - passed
+    Test: Bad program: Identifier only - passed
+    Test: Bad program: NumericLiteral only - passed
+    Test: Bad program: StringLiteral only - passed
+    Test: Bad program: Operator only - passed
+    Test: Bad program: Punctuation only - passed
+    Test: Bad program: Malformed only #1 (bad character) - passed
+    Test: bad program: malformed only #2 (bad string) - passed
+Test Suite: write statements - no expressions
+    Test: Write statement: no args - passed
+    Test: 3 write statements - passed
+    Test: Write statement: StringLiteral - passed
+    Test: Write statement: many StringLiterals - passed
+    Test: Bad write statement: no semicolon - passed
+    Test: Bad write statement: no parens, no arguments, no semicolon - passed
+    Test: Bad write statement: no parens - passed
+    Test: Bad write statement: no opening paren - passed
+    Test: Bad write statement: no closing paren, no semicolon - passed
+    Test: Bad write statement: no closing paren - passed
+    Test: Bad write statement: keyword #1 - passed
+    Test: Bad write statement: keyword #2 - passed
+    Test: Bad write statement: missing comma - passed
+    Test: Bad write statement: comma without preceding argument - passed
+    Test: Bad write statement: comma without following argument - passed
+    Test: Bad write statement: comma alone - passed
+    Test: Bad write statement: extra comma - passed
+    Test: Bad write statement: write followed by else - passed
+    Test: Bad program: (no write) string only - passed
+    Test: Write statement: dq - passed
+    Test: Write statement: dq dq - passed
+    Test: Write statement: all kinds of args without expressions - passed
+Test Suite: Function call statements
+    Test: Function call statement #1 - passed
+    Test: Function call statement #2 - passed
+    Test: Two function call statements - passed
+    Test: Bad function call statement: no semicolon - passed
+    Test: Bad function call statement: no parens - passed
+    Test: Bad function call statement: no left paren - passed
+    Test: Bad function call statement: no right paren, no semicolon - passed
+    Test: Bad function call statement: no right paren - passed
+    Test: Bad function call statement: extra left paren - passed
+    Test: Bad function call statement: extra right paren - passed
+    Test: Bad function call statement: extra pair of parens - passed
+    Test: Bad function call statement: extra name - passed
+    Test: Bad function call statement: parentheses around name - passed
+    Test: Bad function call statement: argument - Idenitfier - passed
+    Test: Bad function call statement: argument - StringLiteral - passed
+    Test: Bad function call statement: argument - NumericLiteral - passed
+Test Suite: function definitions - no expressions
+    Test: Function definition: empty body - passed
+    Test: Bad function definition: missing name - passed
+    Test: Bad function definition: missing name & parens - passed
+    Test: Bad function definition: ampersand before name - passed
+    Test: Bad function definition: no parens - passed
+    Test: Bad function definition: extra semicolon - passed
+    Test: Bad function definition: name in parentheses - passed
+    Test: Function definition: 1-statement body #1 - passed
+    Test: Function definition: 1-statment body #2 - passed
+    Test: Function definition: 2-statment body - passed
+    Test: Function definition: longer body - passed
+    Test: Function definition: nested function definitions - passed
+Test Suite: for loops - simple expressions only
+    Test: For loop: empty - passed
+    Test: For loop: has init, all else empty - passed
+    Test: For loop: has increment, all else empty - passed
+    Test: For loop: empty head, 1 stmt in body - passed
+    Test: For loop: no condition, others single stmt - passed
+    Test: For loop: has condition, all else empty - passed
+    Test: For loop: simple - passed
+    Test: For-loop: longer statement list - passed
+    Test: For loop: nested - passed
+    Test: Bad for loop: bad init - passed
+    Test: Bad for loop: bad increment - passed
+    Test: Bad for loop: bad expr - passed
+    Test: Bad for loop: no right brace - passed
+    Test: Bad for loop: else in body - passed
+    Test: Bad for loop: extra right brace - passed
+Test Suite: if statements - simple expressions only
+    Test: If statement: empty stmt list - passed
+    Test: If statement: one stmt in body - passed
+    Test: If statement: else - passed
+    Test: If statement: elseif, else - passed
+    Test: If statement: multiple elseif, no else - passed
+    Test: If statement: multiple elseif, else - passed
+    Test: If statement: nested #1 - passed
+    Test: If statement: nested #2 - passed
+    Test: If statement: nested for & if - passed
+    Test: Bad if statement: no expr - passed
+    Test: Bad if statement: no right brace - passed
+    Test: Bad if statement: 2 expressions - passed
+    Test: Bad if statement: else before elseif - passed
+    Test: Bad if statement: extra right brace - passed
+Test Suite: assignment statements - simple expressions
+    Test: Assignment statement: NumericLiteral - passed
+    Test: Assignment statement: identifier - passed
+    Test: Assignment statement: array ref = ... - passed
+    Test: Assignment statement: boolean literal Keyword: true - passed
+    Test: Assignment statement: boolean literal Keyword: false - passed
+    Test: Bad assignment statement: missing LHS - passed
+    Test: Bad assignment statement: LHS is NumericLiteral - passed
+    Test: Bad assignment statement: LHS is Keyword - passed
+    Test: Bad assignment statement: missing assignment op - passed
+    Test: Bad assignment statement: assignment op replaced by equality - passed
+    Test: Bad assignment statement: RHS is empty, no semicolon - passed
+    Test: Bad assignment statement: RHS is empty - passed
+    Test: Bad assignment statement: RHS is Keyword - passed
+    Test: Bad assignment statement: RHS is two NumericLiterals - passed
+    Test: Bad assignment statement: followed by else - passed
+    Test: Simple expression: call - passed
+    Test: Bad expression: call without name - passed
+    Test: Simple expression: and - passed
+    Test: Simple expression: or - passed
+    Test: Simple expression: binary + (numbers with space) - passed
+    Test: Simple expression: binary + (numbers without space) - passed
+    Test: Simple expression: binary + (var+number) - passed
+    Test: Simple expression: binary + (number+var) - passed
+    Test: Simple expression: binary + (vars) - passed
+    Test: Bad expression: end with + - passed
+    Test: Simple expression: binary - (numbers with space) - passed
+    Test: Simple expression: binary - (numbers without space) - passed
+    Test: Bad expression: end with - - passed
+    Test: Simple expression: * (numbers) - passed
+    Test: Simple expression: * (var*number) - passed
+    Test: Simple expression: * (number*var) - passed
+    Test: Simple expression: * (vars) - passed
+    Test: Bad expression: end with * - passed
+    Test: Simple expression: / - passed
+    Test: Bad expression: end with / - passed
+    Test: Simple expression: % #1 - passed
+    Test: Simple expression: % #2 - passed
+    Test: Simple expression: % #3 - passed
+    Test: Bad expression: end with % - passed
+    Test: Simple expression: == (numbers) - passed
+    Test: Simple expression: == (var==number) - passed
+    Test: Simple expression: == (number==var) - passed
+    Test: Simple expression: == (vars) - passed
+    Test: Bad expression: end with == - passed
+    Test: Simple expression: != - passed
+    Test: Bad expression: end with != - passed
+    Test: Simple expression: < - passed
+    Test: Bad expression: end with < - passed
+    Test: Simple expression: <= - passed
+    Test: Bad expression: end with <= - passed
+    Test: Simple expression: > - passed
+    Test: Bad expression: end with > - passed
+    Test: Simple expression: >= - passed
+    Test: Simple expression: unary + - passed
+    Test: Simple expression: unary - - passed
+    Test: Bad expression: end with >= - passed
+    Test: Simple expression: parens (number) - passed
+    Test: Simple expression: parens (var) - passed
+    Test: Simple expression: array ref - passed
+    Test: Bad expression: no closing paren - passed
+    Test: Bad expression: empty parens - passed
+    Test: Bad expression: no closing bracket - passed
+    Test: Bad expression: no opening bracket - passed
+    Test: Bad expression: empty brackets - passed
+    Test: Simple expression: var in parens on RHS - passed
+    Test: Bad expression: var in parens on LHS - passed
+    Test: Simple expression: array ref in parens on RHS - passed
+    Test: Bad expression: array ref in parens on LHS - passed
+    Test: Bad expression: call function call - passed
+    Test: Bad expression: call number - passed
+    Test: Bad expression: call boolean - passed
+    Test: Bad expression: call with parentheses around ID - passed
+Test Suite: return statements
+    Test: return statement: variable - passed
+    Test: bad return statement: no semicolon - passed
+    Test: return statement: number - passed
+    Test: return statement: no argument - passed
+    Test: return statement: variable in parentheses - passed
+    Test: return statement: fancier expression - passed
+Test Suite: write statements - with expressions
+    Test: write statement: variable - passed
+    Test: write statement: char call - passed
+    Test: write statement: multiple char calls - passed
+    Test: write statement: string literal, char call, expression #1 - passed
+    Test: write statement: string literal, char call, expression #2 - passed
+    Test: write statement: complex expression - passed
+    Test: bad write statement: no semicolon - passed
+Test Suite: function definitions - with expressions
+    Test: function definition: with write expr - passed
+    Test: function definition: complex expression - passed
+Test Suite: expressions - precedence & associativity
+    Test: Operator 'and' is left-associative - passed
+    Test: Operator 'or' is left-associative - passed
+    Test: Binary operator + is left-associative - passed
+    Test: Binary operator - is left-associative - passed
+    Test: Operator * is left-associative - passed
+    Test: Operator / is left-associative - passed
+    Test: Operator % is left-associative - passed
+    Test: Operator == is left-associative - passed
+    Test: Operator != is left-associative - passed
+    Test: Operator < is left-associative - passed
+    Test: Operator <= is left-associative - passed
+    Test: Operator > is left-associative - passed
+    Test: Operator >= is left-associative - passed
+    Test: Operator 'not' is right-associative - passed
+    Test: Unary operator + is right-associative - passed
+    Test: Unary operator - is right-associative - passed
+    Test: Precedence check: and, or - passed
+    Test: Precedence check: and, == - passed
+    Test: Precedence check: and, != - passed
+    Test: Precedence check: and, < - passed
+    Test: Precedence check: and, <= - passed
+    Test: Precedence check: and, > - passed
+    Test: Precedence check: and, >= - passed
+    Test: Precedence check: and, binary + - passed
+    Test: Precedence check: and, binary - - passed
+    Test: Precedence check: and, * - passed
+    Test: Precedence check: and, / - passed
+    Test: Precedence check: and, % - passed
+    Test: Precedence check: or, and - passed
+    Test: Precedence check: or, == - passed
+    Test: Precedence check:  or , != - passed
+    Test: Precedence check: or, < - passed
+    Test: Precedence check: or, <= - passed
+    Test: Precedence check: or, > - passed
+    Test: Precedence check: or, >= - passed
+    Test: Precedence check: or, binary + - passed
+    Test: Precedence check: or, binary - - passed
+    Test: Precedence check: or, * - passed
+    Test: Precedence check: or, / - passed
+    Test: Precedence check: or, % - passed
+    Test: Precedence check: ==, > - passed
+    Test: Precedence check: ==, binary + - passed
+    Test: Precedence check: ==, binary - - passed
+    Test: Precedence check: ==, * - passed
+    Test: Precedence check: ==, / - passed
+    Test: Precedence check: ==, % - passed
+    Test: Precedence check: >, == - passed
+    Test: Precedence check: >, binary + - passed
+    Test: Precedence check: >, binary - - passed
+    Test: Precedence check: >, * - passed
+    Test: Precedence check: >, / - passed
+    Test: Precedence check: >, % - passed
+    Test: Precedence check: binary +, == - passed
+    Test: Precedence check: binary +, > - passed
+    Test: Precedence check: binary +, binary - - passed
+    Test: Precedence check: binary +, * - passed
+    Test: Precedence check: binary +, / - passed
+    Test: Precedence check: binary +, % - passed
+    Test: Precedence check: binary -, == - passed
+    Test: Precedence check: binary -, > - passed
+    Test: Precedence check: binary -, binary + - passed
+    Test: Precedence check: binary -, * - passed
+    Test: Precedence check: binary -, / - passed
+    Test: Precedence check: binary -, % - passed
+    Test: Precedence check: *, == - passed
+    Test: Precedence check: *, > - passed
+    Test: Precedence check: *, binary + - passed
+    Test: Precedence check: *, binary - - passed
+    Test: Precedence check: *, / - passed
+    Test: Precedence check: *, % - passed
+    Test: Precedence check: /, == - passed
+    Test: Precedence check: /, > - passed
+    Test: Precedence check: /, binary + - passed
+    Test: Precedence check: /, binary - - passed
+    Test: Precedence check: /, * - passed
+    Test: Precedence check: /, % - passed
+    Test: Precedence check: %, == - passed
+    Test: Precedence check: %, > - passed
+    Test: Precedence check: %, binary + - passed
+    Test: Precedence check: %, binary - - passed
+    Test: Precedence check: %, * - passed
+    Test: Precedence check: %, / - passed
+    Test: Precedence check: not, and - passed
+    Test: Precedence check: not, or - passed
+    Test: Precedence check: not, == - passed
+    Test: Precedence check: not, != - passed
+    Test: Precedence check: not, < - passed
+    Test: Precedence check: not, <= - passed
+    Test: Precedence check: not, > - passed
+    Test: Precedence check: not, >= - passed
+    Test: Precedence check: not, binary + - passed
+    Test: Precedence check: not, binary - - passed
+    Test: Precedence check: not, * - passed
+    Test: Precedence check: not, / - passed
+    Test: Precedence check: not, % - passed
+    Test: Precedence check: !=, unary + - passed
+    Test: Precedence check: unary -, < - passed
+    Test: Precedence check: binary +, unary + - passed
+    Test: Precedence check: binary +, unary - - passed
+    Test: Precedence check: unary +, binary +, * - passed
+    Test: Precedence check: unary -, binary + - passed
+    Test: Precedence check: binary -, unary + - passed
+    Test: Precedence check: binary -, unary - - passed
+    Test: Precedence check: unary +, binary -, * - passed
+    Test: Precedence check: unary -, binary - - passed
+    Test: Precedence check: *, unary - - passed
+    Test: Precedence check: unary +, * - passed
+    Test: Precedence check: /, unary + - passed
+    Test: Precedence check: unary -, / - passed
+    Test: Precedence check: %, unary - - passed
+    Test: Precedence check: unary +, % - passed
+    Test: Associativity override: and - passed
+    Test: Associativity override: or - passed
+    Test: Associativity override: == - passed
+    Test: Associativity override: != - passed
+    Test: Associativity override: < - passed
+    Test: Associativity override: <= - passed
+    Test: Associativity override: > - passed
+    Test: Associativity override: >= - passed
+    Test: Associativity override: binary + - passed
+    Test: Associativity override: binary - - passed
+    Test: Associativity override: * - passed
+    Test: Associativity override: / - passed
+    Test: Associativity override: % - passed
+    Test: Precedence override: ==, binary + - passed
+    Test: Precedence override: !=, binary - - passed
+    Test: Precedence override: <, * - passed
+    Test: Precedence override: <=, / - passed
+    Test: Precedence override: >, % - passed
+    Test: Precedence override: binary +, >= - passed
+    Test: Precedence override: binary -, * - passed
+    Test: Precedence override: binary +, % - passed
+    Test: Precedence override: *, == - passed
+    Test: Precedence override: /, != - passed
+    Test: Precedence override: %, < - passed
+    Test: Precedence override: unary +, <= - passed
+    Test: Precedence override: unary -, > - passed
+    Test: Precedence override: unary +, binary + - passed
+    Test: Precedence override: unary -, binary - - passed
+    Test: Precedence override: unary +, * - passed
+    Test: Precedence override: unary -, / - passed
+    Test: Precedence override: unary +, % - passed
+Test Suite: readnum
+    Test: Assignment with readnum - passed
+    Test: Assignment with readnum - nonempty parens - passed
+    Test: Assignment with readnum - no parens - passed
+    Test: Assignment with readnum - no left paren - passed
+    Test: Assignment with readnum - no right paren - passed
+    Test: readnum as statement - passed
+    Test: Multiple assignments with readnum - passed
+Test Suite: array items
+    Test: Array item in LHS of assignment - passed
+    Test: Array item in RHS of assignment - passed
+    Test: Array items: fancier - passed
+Test Suite: complex expressions
+    Test: Complex expression: many parens - passed
+    Test: Bad complex expression: many parens, mismatch #1 - passed
+    Test: Bad complex expression: many parens, mismatch #2 - passed
+    Test: Complex expression: misc #1 - passed
+    Test: Complex expression: misc #2 - passed
+    Test: Complex expression: misc #3 - passed
+    Test: Complex expression: misc #4 - passed
+    Test: Bad complex expression: misc #1 - passed
+    Test: Bad complex expression: misc #2 - passed
+    Test: Bad complex expression: misc #3 - passed
+    Test: Bad complex expression: misc #4 - passed
+    Test: Complex expression: many parens/brackets - passed
+    Test: Bad complex expression: mismatched parens/brackets - passed
+    Test: For loop with complex expression - passed
+    Test: If statement with complex expression - passed
+Test Suite: complete programs
+    Test: Program: Example #1 from Assignment 4 description - passed
+    Test: Program: Fibonacci Example - passed
+    Test: Program: Input number, write its square - passed
+    Test: Program: Input numbers, stop at sentinel, write even/odd - passed
+    Test: Program: Input numbers, write them in reverse order - passed
+    Test: Program: Long program - passed
+    Test: Program: Very long program - passed
+
+All tests successful
+
+[Done] exited with code=0 in 1.796 seconds
+

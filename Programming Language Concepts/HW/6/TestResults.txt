@@ -1,0 +1,135 @@
+[Running] lua "s:\Users\Jon Rippe\Google Drive\School\CSCE A331\HW\6\interpit_test.lua"
+TEST SUITES FOR MODULE interpit
+Test Suite: programs that work with pre-written interpit.lua
+    Test: Empty program - passed
+    Test: write nothing - passed
+    Test: Write: empty string - passed
+    Test: Write: string, double-quoted - passed
+    Test: Write: string + cr - passed
+    Test: Write: number - passed
+    Test: Write: string + number + number + string - passed
+    Test: Func, no call - passed
+    Test: Call, no func - passed
+    Test: Func with call (wrong name) - passed
+    Test: Func with call (right name) - passed
+    Test: Func defs func, no call - passed
+    Test: Func defs func, with call - passed
+Test Suite: simple programs
+    Test: Simple assignment: number - passed
+    Test: Simple assignment: true - passed
+    Test: Simple assignment: false - passed
+    Test: Simple if #1 - passed
+    Test: Simple if #2 - passed
+    Test: Simple for-loop - passed
+    Test: Write: number - passed
+    Test: Write: undefined variable - passed
+    Test: Simple input - passed
+    Test: Set + write: variable - passed
+    Test: Set + write: variable - passed
+    Test: Read + write: variable - passed
+    Test: Read + write: other variable - passed
+    Test: Set array - passed
+Test Suite: modified initial state
+    Test: Modified initial state - empty program - passed
+    Test: Modified initial state - set simple var #1 - passed
+    Test: Modified initial state - set simple var #2 - passed
+    Test: Modified initial state - set array #1 - passed
+    Test: Modified initial state - set array #2 - passed
+    Test: Modified initial state - set array #3 - passed
+    Test: Modified initial state - Write simple var #1 - passed
+    Test: Modified initial state - Write simple var #2 - passed
+    Test: Modified initial state - Write array #1 - passed
+    Test: Modified initial state - Write array #2 - passed
+    Test: Modified initial state - Write array #3 - passed
+    Test: Modified initial state - Write-set-write-read-write - passed
+    Test: Modified initial state - Function - passed
+Test Suite: write special characters
+    Test: Write with char() - passed
+    Test: char() containing nontrivial expression - passed
+    Test: char() containing out-of-range value #1 - passed
+    Test: char() containing out-of-range value #2 - passed
+    Test: Write dq - passed
+    Test: Write several special characters - passed
+    Test: String with backslash - passed
+Test Suite: expressions
+    Test: Write unary + - passed
+    Test: Write unary - - passed
+    Test: Write not #1 - passed
+    Test: Write not #2 - passed
+    Test: Write not not - passed
+    Test: Write binary + - passed
+    Test: Write binary - - passed
+    Test: Write * - passed
+    Test: Write / - passed
+    Test: Write / (div by zero) - passed
+    Test: Write % - passed
+    Test: Write % (div by zero) - passed
+    Test: Write == #1 - passed
+    Test: Write == #2 - passed
+    Test: Write != #1 - passed
+    Test: Write != #2 - passed
+    Test: Write < #1 - passed
+    Test: Write < #2 - passed
+    Test: Write < #3 - passed
+    Test: Write <= #1 - passed
+    Test: Write <= #2 - passed
+    Test: Write <= #3 - passed
+    Test: Write > #1 - passed
+    Test: Write > #2 - passed
+    Test: Write > #3 - passed
+    Test: Write >= #1 - passed
+    Test: Write >= #2 - passed
+    Test: Write >= #3 - passed
+    Test: Write and #1 - passed
+    Test: Write and #2 - passed
+    Test: Write and #3 - passed
+    Test: Write and #4 - passed
+    Test: Write or #1 - passed
+    Test: Write or #2 - passed
+    Test: Write or #3 - passed
+    Test: Write or #4 - passed
+    Test: Longer expression - passed
+Test Suite: integer conversion
+    Test: Integer conversion - numeric literal #1 - passed
+    Test: Integer conversion - numeric literal #2 - passed
+    Test: Integer conversion - numeric literal #3 - passed
+    Test: Integer conversion - input - passed
+    Test: Integer conversion - division + multiplication #1 - passed
+    Test: Integer conversion - division + multiplication #2 - passed
+Test Suite: if-statements
+    Test: If #1 - passed
+    Test: If #2 - passed
+    Test: If-else #1 - passed
+    Test: If-else #2 - passed
+    Test: If-elseif #1 - passed
+    Test: If-elseif #2 - passed
+    Test: If-elseif #3 - passed
+    Test: If-elseif-else #1 - passed
+    Test: If-elseif-else #2 - passed
+    Test: If-elseif-else #3 - passed
+    Test: If-elseif*-else #1 - passed
+    Test: If-elseif*-else #2 - passed
+    Test: If-elseif*-else #3 - passed
+    Test: Nested if-else #1 - passed
+    Test: Nested if-else #2 - passed
+    Test: Nested if-else #3 - passed
+    Test: Nested if-else #4 - passed
+Test Suite: for-loops
+    Test: For-loop - counted - passed
+    Test: For-loop - read with sentinel - passed
+Test Suite: returning a value
+    Test: Writing a return value - passed
+    Test: Assigning a return value - passed
+    Test: Returning a return value - passed
+    Test: Returning a value that is not used - passed
+    Test: Using a return value when nothing is returned - passed
+    Test: Using a previous return value - passed
+Test Suite: fancy programs
+    Test: Recursion - passed
+    Test: Using complex expression as array index - passed
+    Test: Fibonacci example - passed
+
+All tests successful
+
+[Done] exited with code=0 in 0.078 seconds
+

@@ -1,0 +1,36 @@
+
+collcount.fs
+    include collcount.fs  ok
+    1 collcount . 0  ok
+    7 collcount . 16  ok
+    9 collcount 3 collcount . . 7 19  ok
+
+addpairs.scm
+    #;1> ,l addpairs.scm
+    ; loading addpairs.scm ...
+    #;1> (addpairs 1 2 3 4)         
+    (3 7)
+    #;2> (addpairs)      
+    ()
+    #;3> (addpairs 56)   
+    (56)
+    #;4> (addpairs 10 20 30 40 50)  
+    (30 70 50)
+    #;5> (addpairs (* 2 2) (* 3 3))
+    (13)
+
+collcount.pl
+    1 ?- [collcount].
+    true.
+
+    2 ?- collcount(1, 0).
+    true .
+
+    3 ?- collcount(1, C).
+    C = 0 .
+
+    4 ?- collcount(27, C).
+    C = 111 .
+
+    5 ?- collcount(27, 200).
+    false.
